@@ -451,7 +451,7 @@ export default function PortfolioLanding() {
   </div>
 
   <div className="mt-3 text-white/80 text-[15px] leading-relaxed">
-     · MySQL · Power BI 
+     · SQL · Power BI 
   </div>
 
 </div>
@@ -526,7 +526,7 @@ export default function PortfolioLanding() {
   </div>
 
   <div className="mt-3 text-white/80 text-[15px] leading-relaxed">
-     · MySQL 
+     · SQL 
   </div>
 
 </div>
@@ -711,7 +711,7 @@ export default function PortfolioLanding() {
   </div>
 
   <div className="mt-3 text-white/80 text-[15px] leading-relaxed">
-    · MySQL · Python 
+    · SQL · Python · Statistics · Machine Learning (In Progress) 
   </div>
 
 </div>
